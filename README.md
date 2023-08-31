@@ -13,8 +13,6 @@ A framework for extraction of face datasets from YouTube videos and livestreams.
 
 ![Alt text](figures/method.png)
 
-[Latest Repo](https://github.com/atifkhurshid/streamface)
-
 ### Installation
 
 Clone repository and install required packages using
@@ -202,4 +200,4 @@ evaluator.evaluate(verbose=True)
 
 Tree search-based fast face matching algorithm.
 
-[Latest Repo](https://github.com/atifkhurshid/hri)
+[Link to Repository](https://github.com/atifkhurshid/hri)
