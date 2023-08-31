@@ -7,6 +7,10 @@ Recent advances in deep learning have led to significant improvements in the per
 
 ![Alt text](figures/dataset_overview.png)
 
+Please fill the form below to send a request for acquiring the download link for the dataset from the authors.
+
+https://docs.google.com/forms/d/165AYNU9iGQA-wEpH68jEfjnGzJdF_ljFkZNSjOaO3qU/edit
+
 ## Streamface 
 
 A framework for extraction of face datasets from YouTube videos and livestreams.
