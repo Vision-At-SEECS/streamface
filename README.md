@@ -9,7 +9,7 @@ Recent advances in deep learning have led to significant improvements in the per
 
 Please fill the form below to send a request for acquiring the download link for the dataset from the authors.
 
-https://docs.google.com/forms/d/165AYNU9iGQA-wEpH68jEfjnGzJdF_ljFkZNSjOaO3qU/edit
+https://docs.google.com/forms/d/165AYNU9iGQA-wEpH68jEfjnGzJdF_ljFkZNSjOaO3qU
 
 ## Streamface 
 
