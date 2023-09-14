@@ -244,6 +244,8 @@ model.annotate()
 
 #### 9. Evaluate Annotations
 
+This step compares the labels obtained after the "Cluster Refinement" step with the labels before the refinement to evaluate the quality of automatic clustering.
+
 ```python
 from streamface.annotation_evaluation import AnnotationEvaluation
 
