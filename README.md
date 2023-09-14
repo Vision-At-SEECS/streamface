@@ -1,5 +1,4 @@
 # StreamFace
-Official Repository for "StreamFace: Towards Large-Scale Video Face Recognition in Long-Form Video Content".
 
 ## Abstract
 
