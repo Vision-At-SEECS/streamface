@@ -262,4 +262,4 @@ evaluator.evaluate(verbose=True)
 
 Tree search-based fast face matching algorithm.
 
-[Link to Repository](https://github.com/atifkhurshid/hri)
+[Link to Repository](/hri)
