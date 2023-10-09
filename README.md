@@ -263,3 +263,13 @@ evaluator.evaluate(verbose=True)
 Tree search-based fast face matching algorithm.
 
 [Link to Repository](/hri)
+
+## Authors
+
+Atif Khurshid <akhurshid.mscs20seecs@seecs.edu.pk>
+
+Bostan Khan <bkhan.mscs19seecs@seecs.edu.pk>
+
+Muhammad Shahzad <muhammad.shahzad@tum.de>
+
+Muhammad Moazam Fraz <moazam.fraz@seecs.edu.pk>
